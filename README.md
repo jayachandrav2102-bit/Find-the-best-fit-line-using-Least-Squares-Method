@@ -43,7 +43,10 @@ RegisterNumber:  212225220035
 ```
 
 ## Output:
-<img width="734" height="602" alt="image" src="https://github.com/user-attachments/assets/3e0706c0-8990-4d85-acdf-588bfb48ad76" />
+
+<img width="835" height="802" alt="Screenshot 2026-04-24 141607" src="https://github.com/user-attachments/assets/b047e0c5-f69b-48f2-a0d6-9c81686c4566" />
+
+
 
 
 
